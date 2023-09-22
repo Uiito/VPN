@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAcco
 注：以上引用地址需要打开并使用KOP-XIAO资源解析器，如没有解析器请使用脚本配置：
 
 [rewrite_local]
-^https:\/\/testflight\.apple\.com\/v\d\/(app|account|invite)s\/ url script-analyze-echo-response https://raw.githubusercontent.com/Uiito/VPN/master/Script/TestFlightAccount.js?token=GHSAT0AAAAAACHHTD3W6WEICJJZJFUTMSFKZIM6SUQ
+^https:\/\/testflight\.apple\.com\/v\d\/(app|account|invite)s\/ url script-analyze-echo-response https://raw.githubusercontent.com/Uiito/VPN/master/Script/TestFlightAccount.js?token=GHSAT0AAAAAACHHTD3XLRBWS2FV7I4UJDX2ZINSHYQ
 
 [mitm]
 hostname = testflight.apple.com
